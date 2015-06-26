@@ -1,4 +1,4 @@
-# monk_de, the MONK Development Environment
+# The MONK Development Environment
 
 This project aims to solve a simple problem: If you have a lot of terminal windows/tabs open every time you start working, but you have to manually start them every time you start your computer than this is for you.
 
